@@ -23,7 +23,7 @@ django-pymssql 1.7 almost_ passes Django's test suite with:
 
 - Python 2.7 or 3.4
 - Django 1.7.x + django-mssql 1.6.1 + pymssql 2.1.1
-- Microsoft® SQL Server® 2012 Express
+- Microsoft SQL Server 2012 Express
 
 Usage
 -----
