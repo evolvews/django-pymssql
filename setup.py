@@ -29,7 +29,7 @@ setuptools.setup(
     install_requires=[
         'Django >=1.7, <1.9',
         'django-mssql <1.7',
-        'pymssql',
+        'pymssql <2.0',
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
