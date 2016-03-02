@@ -27,7 +27,7 @@ setuptools.setup(
         'sqlserver_pymssql',
     ],
     install_requires=[
-        'Django >=1.7, <1.8',
+        'Django >=1.7, <1.9',
         'django-mssql <1.7',
         'pymssql',
     ],
